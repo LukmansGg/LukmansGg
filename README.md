@@ -39,7 +39,7 @@ I work with both **frontend and backend**, and enjoy crafting systems, tools, an
 
 ###
 
-<img src="https://raw.githubusercontent.com/LukmansGg/LukmansGg/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/LukmansGg/LukmansGg/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
