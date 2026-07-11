@@ -46,8 +46,10 @@ I work with both **frontend and backend**, and enjoy crafting systems, tools, an
 </picture>
 
 ###
-
 ---
+
+<br>
+
 ## 🟣 Contact
 📧 Email: **lukmanbusiness3@gmail.com**  
 🎥 YouTube: **@lukmanggcraft** (Minecraft add-ons & modding content)
@@ -59,6 +61,8 @@ I work with both **frontend and backend**, and enjoy crafting systems, tools, an
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
 </div>
+
+<br>
 
 ## ⚡ Fun Fact
 I create add-ons and mods for **Minecraft**, and love experimenting with new game ideas.
